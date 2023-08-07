@@ -9,21 +9,12 @@ Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o
 ## ⚙️ Funcionalidades
 
 - [x] CRUD de médicos;
-- [x] CRUD de pacientes;
-- [ ] Agendamento de consultas(em breve);
-- [ ] Cancelamento de consultas(em breve);
-
+- [x] CRUD de pacientes; 
 ---
 
 ## 🎨 Layout
 
 O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
-
----
-
-## 📄 Documentação
-
-A documentação das funcionalidades da aplicação pode ser acessada neste link: <a href="https://trello.com/b/O0lGCsKb/api-voll-med">Trello</a>
 
 ---
 
